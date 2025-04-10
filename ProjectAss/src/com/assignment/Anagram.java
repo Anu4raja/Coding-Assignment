@@ -31,6 +31,6 @@ public class Anagram {
                 System.out.println("Not an anagram");
             }
         }
-        sc.close();
+      
     }
 }
